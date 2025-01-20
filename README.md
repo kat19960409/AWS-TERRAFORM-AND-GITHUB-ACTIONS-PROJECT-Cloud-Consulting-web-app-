@@ -49,4 +49,3 @@ I’m eager to bring my cloud engineering and IaC expertise to impactful project
 
 ---
 
-Let me know if you’d like any additional changes or formatting!
